@@ -1,17 +1,2 @@
-https://inventix.tech Inventix
-https://dev.inventix.tech DEV-Inventix
-https://cms.inventix.tech CMS-Inventix
-https://ghts.io GHTS
-https://cms.ghts.io CMS-GHTS
-https://indicsoft.com Indicsoft
-https://indore.indicsoft.com/ Indore-Indicsoft
-https://cms.indore.indicsoft.com/ CMS-Indore-Indicsoft
-https://imcindore.mp.gov.in/ IMC-Indore-Live
-https://imcindore.mp.gov.in/admin CMS-Indore-Live
-https://dev.europal.fi DEV-Europal
-https://at-dev.indicsoft.com Adil-Travel-FE DEV
-https://api-dev.at.indicsoft.com Adil-Travel-BE DEV
-https://media-dev.at.indicsoft.com/doc/ ISTPL-Media-Service DEV
-https://carboncredit.trade Carbon Credit-FE
-https://cms.carboncredit.trade CMS-Carbon-Credit
-https://iam.carboncredit.trade IAM-Carbon-Credit
+https://www.demo1.com Demo-1
+https://www.demo2.com Demo-2
